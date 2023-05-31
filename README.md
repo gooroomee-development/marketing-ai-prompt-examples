@@ -1,9 +1,10 @@
 
 <p align="center"><h1>marketing-ai-prompt-examples 🇰🇷</h1></p>
 
-Welcome to the "marketing-ai-prompt-examples KR" repository!
+"marketing-ai-prompt-examples 🇰🇷" 저장소에 오신 걸 환영합니다!
 
-This is a collection of prompt examples to be used with the ChatGPT model.
+여기는 ChatGPT 모델과 함께 사용할 수 있는 다양한 프롬프트 예시 저장소입니다. 
+
 
 ---
 
